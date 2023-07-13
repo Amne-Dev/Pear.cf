@@ -9,6 +9,7 @@ Welcome to the Pear.cf! This project combines the immersive world of storytellin
  - Explore intelligent story branching and dynamic plot developments.
  - Unleash your imagination and interact with AI-generated storylines and dialogues.
  - Unlock achievements and discover unique story paths guided by AI insights.
+
 Leveraging the OpenAI API, we bring AI capabilities to your fingertips, allowing you to create a truly interactive and intelligent storytelling adventure. Combine the power of CSS, JavaScript, HTML, and the OpenAI API to craft an unforgettable narrative experience.
 
 Get started with the AI-Powered Interactive Storytelling Experience project and immerse your users in a world where AI-driven storytelling takes center stage!
